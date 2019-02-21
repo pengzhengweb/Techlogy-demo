@@ -1,2 +1,4 @@
 # Techlogy-demo
-xcx...etc
+Bash
+npm i
+npm run dev
